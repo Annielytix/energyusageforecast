@@ -1,7 +1,7 @@
 [![Build Status](https://dev.azure.com/AZGlobal/Azure%20Global%20CAT%20Engineering/_apis/build/status/AGCI%20AI/Happy%20Path%20Builds/ai-architecture-template?branchName=master)](https://dev.azure.com/AZGlobal/Azure%20Global%20CAT%20Engineering/_build/latest?definitionId=170&branchName=master)
-### Authors: Fidan Boylu Uz, Yan Zhang, Mario Bourgoin, Daniel Grecoe, Daniel Ciborowski
+### Authors: Laura Edell
 
-# AI Architecture Template
+# AI Architecture 
 
 ## Overview
 This template is meant to simplify creating new Azure ML based projects, with an easy to configure Azure DevOps CI/CD pipeline.
